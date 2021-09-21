@@ -27,3 +27,4 @@ def average():
     average=sum()/3
     print(average)
 sum
+## 有点意思
