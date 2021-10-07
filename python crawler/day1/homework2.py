@@ -5,7 +5,7 @@
 #@Software : PyCharm
 
 # 打印九九乘法表
-for i in range(1,10):# 最大到9
+for i in range(1, 10):# 最大到9
     print("\t")
-    for j in range(1,i+1):# 最大到i
+    for j in range(1, i+1):# 最大到i
         print("%d*%d=%d"%(i, j, i*j), end=" ")
